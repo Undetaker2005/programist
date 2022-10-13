@@ -15,23 +15,25 @@
     text-rendering: optimizeLegibility;
     color: #555;
   }
-  
+  p{
+    font-size: 100%;
+  }
   h1, h2, h3, h4, h5, h6 {
-    color: #333;
+    color: rgb(205, 251, 119);
     font-family: adelle, Adelle, Georgia;
     font-weight: 800;
     text-rendering: optimizeLegibility;
   }
   
   h1 {
-    font-size: 300%;
+    font-size: 100%;
     margin-top: 1em;
     margin-bottom: 0.5em;
     line-height: 1.4em;
   }
   
   h2 {
-    font-size: 150%;
+    font-size: 80%;
     margin-top: 1em;
     margin-bottom: 0.5em;
     line-height: 1.4em;
